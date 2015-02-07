@@ -1,9 +1,9 @@
 Package: PERAssessmentGuides
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: This package contains an RMarkdown template/skeleton for generating assessment guides
+Version: 0.1
 Date: 2015-02-06
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Brian Danielak <brian@briandk.com>
+Maintainer: Brian Danieak <brian@briandk.com>
+Description: This package contains an RMarkdown tempate for generating assessment guides for the DEAR-Faculty project.
+License: GPL (>= 2)
