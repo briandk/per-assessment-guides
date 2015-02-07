@@ -1,9 +1,14 @@
 ---
-title: "Untitled"
+title: "PER Assessment Guide"
+author: "Brian Danielak"
+date: "6 February 2015"
 output:
-  html_document:
-    toc: true
-    fig_caption: true
+  knitrBootstrap::bootstrap_document:
+    title: " "
+    theme: default
+    highlight: sunburst
+    theme.chooser: TRUE
+    highlight.chooser: TRUE
 ---
 
 # Implementation
