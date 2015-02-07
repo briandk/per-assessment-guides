@@ -147,8 +147,6 @@ There are no variations of the BEMA.
 - Administered at multiple institutions
 - Research published by someone other than developers
 
-## Developer: Who developed this test?
-
 The distractors (incorrect multiple-choice options) on each question are based on common student responses on open-ended written versions of the questions. Expert physicists evaluated the validity of the content and the degree of coverage. The difficulty of the items was found to be in the optimal range. Most individual items on the BEMA are able to satisfactorily distinguish students who know the material well from those who don’t and almost are found to be consistent with the rest of the test. Another measure was used to assess the self-consistency of the whole test, and the BEMA was found to be satisfactorily self-consistent. The total scores on the BEMA were found to be broadly distributed over the possible range, meaning that the BEMA as a whole has can discriminate well between students (Ding, Chabay, Sherwood, & Beichner, 2006). The BEMA has been used to compare the effectiveness of different teaching and the results published in peer-reviewed publications (Kohlmyer et al., 2009). It has been administered at many different institutions.
 
 ## Developer: Who developed this test?
