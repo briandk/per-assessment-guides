@@ -2,10 +2,13 @@
 title: "PER Assessment Guide"
 author: "Brian Danielak"
 date: "6 February 2015"
-output: 
-  pdf_document:
-    toc: true
-    toc_depth: 3
+output:
+  knitrBootstrap::bootstrap_document:
+    title: " "
+    theme: default
+    highlight: sunburst
+    theme.chooser: TRUE
+    highlight.chooser: TRUE
 ---
 
 # Implementation
