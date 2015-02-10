@@ -1,0 +1,48 @@
+---
+title: "PER Assessment Guide"
+author: "Brian Danielak"
+date: "6 February 2015"
+output:
+  knitrBootstrap::bootstrap_document:
+    title: " "
+    theme: default
+    highlight: sunburst
+    theme.chooser: TRUE
+    highlight.chooser: TRUE
+---
+
+# Implementation
+
+## Course Level: What kinds of courses is it appropriate for?
+
+## Content: What does it test?
+
+## Timing: How long does it take?
+
+## Example Questions
+
+## Access: Where do I download the test?
+
+## Versions: Which version of the test should I use?
+
+## Clusters: Does this test include clusters of questions by topic?
+
+## Pre-test: Should I give this as a pre-test?
+
+## Scoring: How do I calculate my students' scores?
+
+## Typical Results: What scores are usually achieved?
+
+## Interpretation: How do I interpret my students' score in light of typical results?
+
+# Background
+
+## Similar Tests:
+
+## Variations:
+
+## Research: What research has been done to create and validate the test?
+
+## Developer: Who developed this test?
+
+## References
